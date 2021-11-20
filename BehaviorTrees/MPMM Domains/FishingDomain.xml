@@ -1,0 +1,23 @@
+<Domain package="RunescapeQuestHelper">
+    <ActionSet>
+        <!-- Example of an Action with no parameter -->
+        <Action name="MoveToClosestEligibleFishingSpot"/>
+        
+        <!-- Example of an Action with parameter(s) -->
+        <Action name="SwitchFishingSpot">
+            <Parameter name="index" type="INTEGER"/>
+        </Action>
+    </ActionSet>
+    
+    <!-- Sensor/Condition definition goes here -->
+    <SensorSet>
+        <Sensor name="IsInventoryFull" type="BOOLEAN"/>
+    </SensorSet>
+    
+    <!-- DO NOT REMOVE THESE TWO, EVEN IF THEY ARE EMPTY -->
+    <EntitySet>
+    </EntitySet>
+    
+    <GoalSet>
+    </GoalSet>
+</Domain>
