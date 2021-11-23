@@ -1,7 +1,7 @@
-# RunescapeHelperBot
-A bot designed to help Runescape players prepare for quests
+# Skill Helper for Runescape
+A bot designed to help Runescape players find the most efficient way to level up their skills
 
 # Dependencies
-* Java Behavior Trees (the library and BTEditor) - https://sourceforge.net/projects/jbt/files/?source=navbar
-* Dreambot for Runescape - https://dreambot.org/guides/download/
-* Java JRE 1.8 must also be installed in order for BTEditor to work
+* JavaGOAP by ph1387 on github - https://github.com/ph1387/JavaGOAP
+* RuneLite - https://runelite.net/
+
